@@ -1,6 +1,6 @@
 ﻿using System;
-using System.Drawing;
 using System.Text;
+using System.Drawing;
 using System.Windows.Forms;
 using B18_Ex05.Enums;
 
